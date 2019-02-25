@@ -1,1 +1,11 @@
-1. sss
+1. JavaScript和ECMAScript总是被人们用来表达相同的含义，但是JavaScript的含义却比ECMA-262中规定的多的多；
+   一个完整的JavaScript实现包含ECMAScrit(核心)、DOM(文档对象模型)、BOM(浏览器对象模型)
+   ECMAScript是JavaScript的基础，常见浏览器是ECMAScript的宿主环境之一，宿主环境不仅提供ECMASript的基本实现同时还提供该语言的扩展， 以便语言与环境之间的对接交互。
+   DOM利用ECMAScript的基本类型和语法提供更多更具体的功能，以便实现针对环境的操作；
+   其他的宿主环境有Node(一种服务器端JavaScript平台）和Adobe Flash；
+2. ECMAScript规定了JavaScript的语法、类型、语句、关键字、保留字、操作符、对象；ESMAScript是实现针对该标准规定的各个方面内容的语言的描述；
+3. DOM: 是针对XML但经过扩展用于HTML的应用程序编程接口；
+        DOM把整个页面映射为一个多层节点的结构；XML或HTML页面中的每个组成部分都是某种类型的节点，这些节点中又包含不同类型的数据；
+        通过DOM创建的表示文档的树形图， 开发人员获得了控制页面内容和结构的主动权，通过DOM的API，开发人员可以轻松自如的添加、删除、修改和替换任何节点；
+        
+   
